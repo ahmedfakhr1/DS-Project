@@ -1,0 +1,7 @@
+error at line the open tag at line 3 and the close tag at line 4
+id
+error at line the open tag at line 6 and the close tag at line 18
+post
+error at line the open tag at line 39 and the close tag at line 59
+user
+errors 3

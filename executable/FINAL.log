@@ -1,0 +1,17 @@
+﻿  MyForm.cpp
+F:\final data structure project\FINAL\MyForm.h(66,22): warning C4018: '<': signed/unsigned mismatch
+F:\final data structure project\FINAL\MyForm.h(301,22): warning C4018: '<': signed/unsigned mismatch
+F:\final data structure project\FINAL\MyForm.h(334,24): warning C4018: '<': signed/unsigned mismatch
+F:\final data structure project\FINAL\MyForm.h(445,22): warning C4018: '<': signed/unsigned mismatch
+F:\final data structure project\FINAL\MyForm.h(556,23): warning C4018: '<': signed/unsigned mismatch
+F:\final data structure project\FINAL\MyForm.h(570,23): warning C4018: '<': signed/unsigned mismatch
+F:\final data structure project\FINAL\MyForm.h(579,26): warning C4018: '<': signed/unsigned mismatch
+F:\final data structure project\FINAL\MyForm.h(613,24): warning C4018: '<': signed/unsigned mismatch
+F:\final data structure project\FINAL\MyForm.h(640,24): warning C4018: '<': signed/unsigned mismatch
+F:\final data structure project\FINAL\MyForm.h(660,25): warning C4018: '<': signed/unsigned mismatch
+F:\final data structure project\FINAL\MyForm.h(764,10): warning C4129: '/': unrecognized character escape sequence
+F:\final data structure project\FINAL\MyForm.h(771,22): warning C4018: '<': signed/unsigned mismatch
+F:\final data structure project\FINAL\MyForm.h(778,9): warning C4129: '/': unrecognized character escape sequence
+F:\final data structure project\FINAL\MyForm.cpp(7,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  FINAL.vcxproj -> F:\final data structure project\FINAL\Debug\FINAL.exe
